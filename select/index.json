@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "フロート・プランナー",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2026-02-12T10:23:00.612901Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フロート・プランナー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP! feat. 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫 & Kagamine Rin",
+      "has_synced": true,
+      "path": "select/01_フロート・プランナー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!_feat._花里みのり,_桐谷遥,_桃井愛莉,_日野森雫_&_Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フロート・プランナー",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン",
+      "has_synced": true,
+      "path": "select/02_フロート・プランナー_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フロート・プランナー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_フロート・プランナー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フロート・プランナー (feat. 花里みのり, 桐谷遥, 日野森雫, 桃井愛莉 & 鏡音リン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_フロート・プランナー_(feat._花里みのり,_桐谷遥,_日野森雫,_桃井愛莉_&_鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フロート・プランナー",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_フロート・プランナー_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フロート・プランナー (feat. 鏡音リン&初音ミク)",
+      "artist": "Heavenz",
+      "has_synced": true,
+      "path": "select/06_フロート・プランナー_(feat._鏡音リン&初音ミク)_Heavenz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フロート・プランナー (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫...",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/07_フロート・プランナー_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫..._MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フロート・プランナー",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine Rin",
+      "has_synced": true,
+      "path": "select/08_フロート・プランナー_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フロート・プランナー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP！",
+      "has_synced": true,
+      "path": "select/09_フロート・プランナー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フロート・プランナー -instrumental-",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/10_フロート・プランナー_-instrumental-_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フロート・プランナー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_フロート・プランナー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
